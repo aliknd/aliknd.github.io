@@ -1,5 +1,5 @@
 ---
-title: "BanAware - Mobile-based EMA App"
+title: "BanAware - Mobile based EMA App"
 collection: projects
 link: https://aliknd.github.io/projects/2023-11-01-project-number-2
 excerpt: 'A personalized mobile-based EMA app for periodically recording a log about their substance use and craving throughout the day with the ability to send reminders (notifications)'
