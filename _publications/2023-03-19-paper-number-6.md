@@ -5,7 +5,7 @@ link: https://aliknd.github.io/publications/2023-03-19-paper-number-6
 excerpt: 'Developing computer vision models for automatic recognition of emotion expression can aid in a variety of domains, including robotics, digital behavioral healthcare, and media analytics.'
 date: 2023-03-19
 venue: 'rxiv'
-link: 'https://arxiv.org/abs/2303.10741'
+paperurl: 'https://arxiv.org/abs/2303.10741'
 citation: 'Qian, Y., Kargarandehkordi, A., Mutlu, O. C., Surabhi, S., Honarmand, M., Wall, D. P., & Washington, P. (2023). Computer Vision Estimation of Emotion Reaction Intensity in the Wild. arXiv preprint arXiv:2303.10741.'
 ---
 
