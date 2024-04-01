@@ -5,7 +5,7 @@ link: https://aliknd.github.io/publications/2024-02-07-paper-number-2
 excerpt: 'In this study, we aimed to understand the feasibility of continuous remote digital monitoring and ecological momentary assessments in Native Hawaiian, Filipino, and Pacific Islander communities in Hawaii by curating a novel data set of longitudinal Fitbit (Fitbit Inc) biosignals with the corresponding craving and substance use labels. We also aimed to develop personalized AI models that predict methamphetamine craving events in real time using wearable sensor data.'
 date: 2024-02-07
 venue: 'JMIR'
-paperurl: 'https://aliknd.github.io/files/paisubstance.pdf'
+paperurl: 'https://www.researchprotocols.org/2024/1/e46493'
 citation: 'Sun, Y., Kargarandehkordi, A., Slade, C., Jaiswal, A., Busch, G., Guerrero, A., ... & Washington, P. (2024). Personalized Deep Learning for Substance Use in Hawaii: Protocol for a Passive Sensing and Ecological Momentary Assessment Study. JMIR Research Protocols, 13(1), e46493.'
 ---
 
