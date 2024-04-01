@@ -15,5 +15,8 @@ Current Projects
 2. Personalization of Affective Models to Enable Neuropsychiatric Digital Precision Health Interventions 
 3. Computer Vision Estimation of Stress and Anxiety Using a Gamified Mobile-based Ecological Momentary Assessment and Deep Learning
 4. Personalized Deep Learning for Substance Use in Hawaii
-5. Create and develop a deep learning foundation model for emotion recognition/facial expression  
-6. Develop web and mobile applications for digital phenotyping
+5. Create and develop a deep learning foundation model for emotion recognition/facial expression
+6. <a href="https://aliknd.github.io/projects/">Develop web and mobile applications for digital phenotyping</a>
+7. Experimental effects of children’s evening media use on circadian phase, sleep, and executive functioning (collaboration with Baylor College of Medicine, Houston, Texas)
+8. Collaboration with Stanford University, CA, United States
+9. Collaboration with Ohio State University, OH, United States
