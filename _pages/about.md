@@ -11,7 +11,7 @@ I am a Doctoral researcher in the Information & Computer Sciences department at 
 
 Current Projects
 ======
-1. Personalized Prediction of Stress-Induced Blood Pressure Spikes in Real Time from FitBit Data using Artificial Intelligence: Study lead
+1. Personalized AI-Driven Real-Time Models to Predict Stress-Induced Blood Pressure Spikes Using Wearable Devices: Study lead
 2. Personalization of Affective Models to Enable Neuropsychiatric Digital Precision Health Interventions 
 3. Computer Vision Estimation of Stress and Anxiety Using a Gamified Mobile-based Ecological Momentary Assessment and Deep Learning
 4. Personalized Deep Learning for Substance Use in Hawaii
