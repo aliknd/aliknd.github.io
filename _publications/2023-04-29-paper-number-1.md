@@ -5,7 +5,7 @@ link: https://aliknd.github.io/publications/2023-04-29-paper-number-1
 excerpt: 'Stress and anxiety can contribute to the development of major health problems such as heart disease, depression, and obesity. Due to its subjective nature, it is challenging to precisely measure human affect by relying on automated approaches. We therefore propose a personalized prediction framework fine-tuned for each participant in lieu of the traditional “one-size-fits-all” machine learning approach.'
 date: 2023-04-29
 venue: 'medRxiv'
-paperurl: 'https://aliknd.github.io/files/cvgstress.pdf'
+paperurl: 'https://www.medrxiv.org/content/10.1101/2023.04.28.23289168v1'
 citation: 'Kargarandehkordi, A., & Washington, P. (2023). Computer Vision Estimation of Stress and Anxiety Using a Gamified Mobile-based Ecological Momentary Assessment and Deep Learning: Research Protocol. medRxiv, 2023-04.'
 ---
 
