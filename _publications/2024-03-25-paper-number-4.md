@@ -5,7 +5,7 @@ link: https://aliknd.github.io/publications/2024-03-25-paper-number-4
 excerpt: 'The aim of this study is to leverage machine learning (ML) algorithms for real-time predictions of stress-induced BP spikes using consumer wearable devices such as Fitbit, providing actionable insights to both patients and clinicians to improve diagnostics and enable proactive health monitoring. This study also seeks to address the significant challenges in identifying specific deleterious behaviors associated with stress-induced hypertension through the development of personalized artificial intelligence models for individual patients, departing from the conventional approach of using generalized models.'
 date: 2024-03-25
 venue: 'JMIR'
-paperurl: 'https://aliknd.github.io/files/paistress.pdf'
+paperurl: 'https://www.researchprotocols.org/2024/1/e55615/'
 citation: 'Kargarandehkordi, A., Slade, C., & Washington, P. (2024). Personalized AI-Driven Real-Time Models to Predict Stress-Induced Blood Pressure Spikes Using Wearable Devices: Proposal for a Prospective Cohort Study. JMIR Research Protocols, 13(1), e55615.'
 ---
 
