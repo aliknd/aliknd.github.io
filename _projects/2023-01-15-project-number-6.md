@@ -9,6 +9,15 @@ venue: 'both Android and iOS'
 #citation: 'Qian, Y., Kargarandehkordi, A., Mutlu, O. C., Surabhi, S., Honarmand, M., Wall, D. P., & Washington, P. (2023). Computer Vision Estimation of Emotion Reaction Intensity in the Wild. arXiv preprint arXiv:2303.10741.'
 ---
 
+Implement a smartphone app for STress and ANxiety Detection (STAND) to be used in a study that aims to gather users’ stress and anxiety data whilst they play cognitively challenging and stimulating games.
+
+The users’ faces are recorded while playing these games, and these recordings will be used as training data for an AI model that will be able to detect stress and anxiety and estimate their corresponding levels.
+
+This stage of the project focuses on continuing development for pre-existing features of the app, as well as augment the gamification aspect to enhance the user experience.
+1. Upload all recorded videos to AWS, where it can be analyzed
+2. Incentivize users to log in frequently with daily rewards and a weekly leaderboard
+3. The addition of a second, stress-inducing game to gather more data
+
 ![0013](https://github.com/aliknd/aliknd.github.io/assets/96740009/6000895c-45e6-46db-9d46-008e734f3922)
 
 
