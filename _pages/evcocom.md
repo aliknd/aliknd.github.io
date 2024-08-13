@@ -1,10 +1,9 @@
 ---
-permalink: /evcocom
+permalink: /evcocom/
 title: "Evidence of Core Competency"
 author_profile: true
 redirect_from: 
   - /evcocom/
-  - /evcocom.html
 ---
 
 I have two Computer Science related Masters degree:
