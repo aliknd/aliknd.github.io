@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /evcocom
 title: "Evidence of Core Competency"
 author_profile: true
 redirect_from: 
