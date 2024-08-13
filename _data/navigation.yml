@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Evidence of Scholarly Ability"
     url: https://aliknd.github.io/publications/
     
   - title: "Projects"
     url: https://aliknd.github.io/projects/
     
-  - title: "Research Lab"
-    url: https://hawaiidigitalhealthlab.com/
+  - title: "Evidence of Core Competency"
+    url: https://aliknd.github.io/evcocom/
+    
+  - title: "Statement of Purpose"
+    url: https://aliknd.github.io/evcocom/
     
   - title: "CV"
     url: https://aliknd.github.io/cv/
