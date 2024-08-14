@@ -11,5 +11,7 @@ citation: 'Kargarandehkordi, A., Slade, C., & Washington, P. (2024). Personalize
 
 The app comprises 2 primary screens, account and home. The account screen features user details, a star reward system for active participation in the study, and options to link 2 wearable devices (Fitbit and Omron Heartguide) for data synchronization with our secure and encrypted database. The home screen is divided into 6 sections, including questionnaires, messages, feedback, records, BP readings, and app instructions. Additionally, the CardioMate app includes an administrative area for study managers to view participant statistics and initiate personalized chats, complete with alarm and notification functions.
 
+You can find the code for this app in <a href="https://github.com/aliknd/CardioMate-Mobile-App">this public repository</a> on Github.
+
 ![CardioMate-app-workflow](https://github.com/aliknd/aliknd.github.io/assets/96740009/3ff4e714-d627-41da-bc73-ef99f36d75a1)
 

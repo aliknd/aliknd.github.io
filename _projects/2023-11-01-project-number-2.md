@@ -11,5 +11,7 @@ citation: 'Sun, Y., Kargarandehkordi, A., Slade, C., Jaiswal, A., Busch, G., Gue
 
 The application offers customization options tailored to individual user preferences, serving to both improve and safeguard participant privacy. Additionally, it incorporates elements of gamification, such as a star reward system, rewarding users for actively engaging in the research, encouraging them to record their conditions. Furthermore, the app possesses a robust feature that allows for the sending of reminders (notifications) to users, making it an effective tool for all types of digital health initiatives.
 
+You can find the code for this app in <a href="https://github.com/aliknd/BanAware_Mobile_App">this public repository</a> on Github.
+
 ![image](https://github.com/aliknd/aliknd.github.io/assets/96740009/6c68df63-82b6-4fed-9893-2d2148bfdeb6)
 
