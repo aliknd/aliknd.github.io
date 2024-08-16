@@ -18,6 +18,8 @@ This stage of the project focuses on continuing development for pre-existing fea
 2. Incentivize users to log in frequently with daily rewards and a weekly leaderboard
 3. The addition of a second, stress-inducing game to gather more data
 
+You can find the code for this app in <a href="https://github.com/aliknd/STAND_Digital_Health_App">this public repository</a> on Github.
+
 ![0013](https://github.com/aliknd/aliknd.github.io/assets/96740009/6000895c-45e6-46db-9d46-008e734f3922)
 
 

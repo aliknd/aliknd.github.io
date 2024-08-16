@@ -20,3 +20,5 @@ At its core, LabelLab allows users to actively participate in the creation of a 
 
 What sets LabelLab apart is its capability to function as a crowdsourcing labeling app. This feature enables the importation of external video datasets into the platform, thereby broadening the scope of data available for labeling. To facilitate efficient data annotation, LabelLab provides tools for recruiting and managing crowdworkers. These crowdworkers, drawn from the app’s user base, are instrumental in labeling video data, making the process faster, more efficient, and scalable.
 
+You can find the code for this app in <a href="https://github.com/ucsfdigitalhealth/LabelLab">this public repository</a> on Github.
+
