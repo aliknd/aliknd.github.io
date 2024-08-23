@@ -4,7 +4,7 @@ collection: publications
 link: https://aliknd.github.io/publications/2024-02-14-paper-number-5
 excerpt: 'We release this dataset as a valuable resource for building domain-specific foundation models for human movement modeling tasks such as action recognition.'
 date: 2024-02-14
-venue: 'rxiv'
+venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2402.08875'
 citation: 'Qian, Y., Sun, Y., Kargarandehkordi, A., Mutlu, O. C., Surabhi, S., Chen, P., ... & Washington, P. (2024). TikTokActions: A TikTok-Derived Video Dataset for Human Action Recognition. arXiv preprint arXiv:2402.08875.'
 ---
