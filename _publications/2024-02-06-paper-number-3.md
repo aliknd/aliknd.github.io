@@ -5,7 +5,7 @@ link: https://aliknd.github.io/publications/2024-02-06-paper-number-3
 excerpt: 'Our study delves into the concept of model personalization in emotion recognition, moving away from the one-size-fits-all approach. We conducted a series of experiments using the Emognition dataset, comprising physiological and video data of human subjects expressing various emotions, to investigate this personalized approach to affective computing.'
 date: 2024-02-06
 venue: 'Applied Sciences Journal'
-paperurl: 'https://www.mdpi.com/2076-3417/14/4/1337'
+paperurl: 'https://aliknd.github.io/files/applsci-2783038-final.pdf'
 citation: 'Kargarandehkordi, A., Kaisti, M., & Washington, P. (2024). Personalization of Affective Models Using Classical Machine Learning: A Feasibility Study. Applied Sciences, 14(4), 1337.'
 ---
 
