@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Doctoral researcher in the Information & Computer Sciences department at the University of Hawaiʻi at Mānoa. Prior to this role, I completed my MSc in Information and Communication Technology - Smart Systems at the University of Turku (UTU) in Finland. You can read my MSc thesis here. My research interests lie at the intersection of healthcare, human-centered computing, artificial intelligence and machine learning, and data science. I am interested in applying these methods to a variety of healthcare problems. The Hawaii Digital Health Lab is located at the University of Hawaii at Manoa.
+I am a Doctoral researcher in the Information & Computer Sciences department at the University of Hawaiʻi at Mānoa. Prior to this role, I completed my MSc in Information and Communication Technology - Smart Systems at the University of Turku (UTU) in Finland. You can read my MSc thesis <a href="https://www.utupub.fi/handle/10024/175664"></a>here. My research interests lie at the intersection of healthcare, human-centered computing, artificial intelligence and machine learning, and data science. I am interested in applying these methods to a variety of healthcare problems. The Hawaii Digital Health Lab is located at the University of Hawaii at Manoa.
 
 Current Projects
 ======
