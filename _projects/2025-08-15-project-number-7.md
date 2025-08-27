@@ -7,6 +7,10 @@ date: 2025-08-15
 venue: "Both Android and iOS"
 ---
 
+CigAware helps participants log smoking/craving events with quick EMAs, then turns those into daily progress, streaks, and weekly insights—backed by gentle, motivational nudges.
+
+<img width="3790" height="2874" alt="grid" src="https://github.com/user-attachments/assets/8aa61e40-301f-4aef-88df-4314b87562f0" />
+
 Key features
 
 - EMA check-ins (2 steps, <1 min): Supports both notification-triggered EMAs and self-initiated logs (“I just smoked!”). Either can fill scheduled slots; self-logs outside a slot are marked extra and may earn reduced/no stars per study rules.
@@ -22,4 +26,3 @@ Key features
 
 You can find the code for this app in <a href="https://github.com/aliknd/CigAware_Mobile_App">this public repository</a> on Github.
 
-![CigAware-app-workflow](https://github.com/aliknd/aliknd.github.io/assets/grid.png)
