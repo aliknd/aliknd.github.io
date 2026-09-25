@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1220">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Ali Kargarandehkordi</title>
+  <meta name="description" content="Ali Kargarandehkordi — digital biomarkers, personalized AI, wearable sensing, and digital mental health.">
+  <link rel="icon" href="/images/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/portfolio.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="shell nav-shell">
+      <a class="brand" href="/" aria-label="Ali Kargarandehkordi home">
+        <span class="brand-mark">AK</span>
+        <span class="brand-name">Ali Kargarandehkordi</span>
+      </a>
+      <nav class="nav" aria-label="Primary navigation">
+        <a href="/#research">Research</a>
+        <a href="/publications/">Publications</a>
+        <a href="/projects/">Projects</a>
+        <a href="/files/cv.pdf">CV</a>
+      </nav>
+    </div>
+  </header>
+
+  {{ content }}
+
+  <footer class="site-footer">
+    <div class="shell footer-grid">
+      <div>
+        <div class="footer-name">Ali Kargarandehkordi, PhD</div>
+        <p>Digital biomarkers · personalized AI · digital mental health</p>
+      </div>
+      <div class="footer-links">
+        <a href="mailto:kargaran@hawaii.edu">Email</a>
+        <a href="https://scholar.google.com/citations?user=GSTYzrIAAAAJ&hl=en">Google Scholar</a>
+        <a href="https://orcid.org/0000-0002-2714-9476">ORCID</a>
+        <a href="https://github.com/aliknd">GitHub</a>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>

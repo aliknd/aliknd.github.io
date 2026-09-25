@@ -1,16 +1,9 @@
-# main links links
 main:
-  - title: "Evidence of Scholarly Ability"
-    url: https://aliknd.github.io/publications/
-    
-  - title: "Other Evidence of Professional Capacity"
-    url: https://aliknd.github.io/projects/
-    
-  - title: "Evidence of Core Competency"
-    url: https://aliknd.github.io/evcocom/
-    
-  - title: "Statement of Purpose"
-    url: https://aliknd.github.io/sop/
-    
+  - title: "Research"
+    url: /#research
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /projects/
   - title: "CV"
-    url: https://aliknd.github.io/cv/
+    url: /files/cv.pdf

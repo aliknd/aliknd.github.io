@@ -11,7 +11,7 @@ locale: "en-US"
 title: "Ali Kargarandehkordi"
 title_separator: "-"
 name: &name "Ali"
-description: &description "personal description"
+description: &description "Digital biomarkers, personalized AI, wearable sensing, and digital mental health."
 url: https://aliknd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "aliknd/aliknd.github.io"
@@ -21,12 +21,12 @@ repository: "aliknd/aliknd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: https://i1.rgstatic.net/ii/profile.image/11431281679379261-1760660421416_Q128/Ali-Kargarandehkordi.jpg
+  avatar: /images/profile1.png
   name: "Ali Kargarandehkordi"
   pronouns: # example: "he/him"
-  bio: "Doctoral Researcher"
-  location: "Honolulu, United States"
-  employer: "University of Hawaii at Manoa"
+  bio: "Director of Digital Biomarkers"
+  location: "Boston, Massachusetts"
+  employer: "Division of Digital Psychiatry, BIDMC"
   uri: # URL
   email: "kargaran@hawaii.edu"
 
